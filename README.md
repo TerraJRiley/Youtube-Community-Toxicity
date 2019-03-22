@@ -1,3 +1,9 @@
+Quick note if I haven't yet gottent o updatng this document: I've since streamlinned the research done into this topic and have primarily focused on compairing the sentiment for two specific channels with a shared topic.  CinemaSins is a channel which goes through movies and knocks points for everything negative that said movie does and CinemaWins is a channel that was made afterwords which instead tallies points for every time a movie does something good.  I've gathered only the data for compairison which were the comments on the videos that both channels did a movie of.The final result is that generally, the Wins videos has a higher rate of positive and pleasant comments in the videos while the Sinse are, on average, less pleasant.  
+
+I plan on updating this document in the future, but only have so much time to do it at this moment so what follows is the previous iteration of results and such.  Thanks for checking out my GitHub. :)
+
+
+
 # Youtube-Community-Toxicity
 For the final project (AKA capstone) of my data science intensive I decided to attempt to use sentimentalization to discover evidence of and correlations to toxicity or supportiveness of the cultures of individual youtube channels.  
 
